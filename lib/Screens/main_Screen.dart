@@ -128,6 +128,18 @@ class IntroPage extends StatelessWidget {
                           ),
 
                           const SizedBox(height: 60),
+                          
+                           ElevatedButton(
+                            onPressed: () {
+                              Navigator.push(
+                                context,
+                                MaterialPageRoute(
+                                  builder: (context) =>  Myloc(),
+                                ),
+                              );
+                            },
+                            child: const Text("see location"),
+                          ),
 
                           const Divider(color: Colors.grey),
 
@@ -188,7 +200,7 @@ class IntroPage extends StatelessWidget {
                           },
                               child: Text(
                                 'Download Resume', style: TextStyle(),)),
-                          GoogleMaps()
+
                         ]
                     )
                 )
