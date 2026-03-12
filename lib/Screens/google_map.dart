@@ -6,6 +6,7 @@ class Myloc extends StatelessWidget {
 
   static const LatLng jalna = LatLng(19.8347, 75.8816);
 
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
