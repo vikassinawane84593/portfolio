@@ -1,16 +1,31 @@
-# introduction
+🌐 My Portfolio Website
+This is my personal portfolio website built using Flutter Web.
+The website showcases my projects, skills, and development journey.
+🚀 About the Project
+This portfolio website is created to present my work as a Flutter developer.
+It includes information about me, my projects, and ways to contact me.
+🛠️ Technologies Used
 
-A new Flutter project.
+Flutter
+Dart
+Material UI
+GitHub Pages / Web Hosting
 
-## Getting Started
+✨ Features
 
-This project is a starting point for a Flutter application.
+Responsive design
+Project showcase
+Clean UI
+Fast loading website
 
-A few resources to get you started if this is your first Flutter project:
+📂 Project Structure
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Home Page
+About Me
+Projects Section
+Contact Section
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+👨‍💻 Author
+Vikas Sonawane
+
